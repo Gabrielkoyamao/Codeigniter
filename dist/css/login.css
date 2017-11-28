@@ -1,0 +1,13 @@
+.form-login {
+    
+    float      : none;
+    margin     : 0 auto !important;
+    max-width  : 300px;
+    background : white !important;
+}
+
+.form-login input{
+
+    border-radius : 20px;
+
+}
